@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/store/mutation-types-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/store/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/main-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/store/actions-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/store/mutations-compiled.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/store/mutation-types-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/store/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/main-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/store/actions-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/store/mutations-compiled.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
